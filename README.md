@@ -12,7 +12,7 @@ https://www.microsoft.com/en-us/windowsinsider/mvps/maison-da-silva
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maisondasilva)
 
 ## 🛠 Habilidades
-Windows, Linux, Javascript, HTML, Java, Delphi e PHP
+Windows, Microsoft 365, Office 365, Xbox, Azure, Defender, Linux
 
 ## 🌎Meu site
 📫 www.maisondasilva.com.br
