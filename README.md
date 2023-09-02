@@ -15,7 +15,7 @@ https://www.microsoft.com/en-us/windowsinsider/mvps/maison-da-silva
 🖥️ Windows, Microsoft 365, Office 365, Xbox, Azure, Defender, Linux
 
 ## 🌎Meu site
-🌐 www.maisondasilva.com.br
+💻 www.maisondasilva.com.br
 
 ## 👩‍💻Tema Winrar que criei baseado nos Ícones do Windows 11
 [![linkedin](https://www.rarlab.com/images/theme_sun_valley.png)](https://www.rarlab.com/themes5.htm)
