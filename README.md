@@ -14,8 +14,7 @@ Eu sou um Windows Insider MVP
 https://www.microsoft.com/en-us/windowsinsider/mvps/maison-da-silva
 
 ## 🛠 Habilidades
-Windows, Linux, cPanel/WHM
-Javascript, HTML, Java, Delphi e PHP
+Windows, Linux, Javascript, HTML, Java, Delphi e PHP
 
 
 ## Meu site
