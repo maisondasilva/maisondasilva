@@ -1,9 +1,9 @@
 
-# Olá, eu sou o Maison! Seja bem vindo aqui👋
-😍 Esposo da K❤️
+# Hello, I am Maison 🇧🇷! Welcome here👋
+😍 Husband of K❤️
 
-## 😊 Sobre mim
-Eu sou um Windows Insider MVP 🚀
+## 😊 About me
+I am a Windows Insider MVP MVP 🚀
 
 https://www.microsoft.com/en-us/windowsinsider/mvps/maison-da-silva
 
@@ -11,11 +11,11 @@ https://www.microsoft.com/en-us/windowsinsider/mvps/maison-da-silva
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maisondasilva)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maisondasilva/)
 
-## 🛠 Habilidades
+## 🛠 Skills
 🖥️ Windows, Microsoft 365, Office 365, Xbox, Azure, Defender, Linux
 
-## 🌎Meu site
+## 🌎 My website
 💻 www.maisondasilva.com.br
 
-## 👩‍💻Tema Winrar que criei baseado nos Ícones do Windows 11
+## 👩‍💻Winrar theme I created based on Windows 11 icons
 [![temawinrar](https://www.rarlab.com/images/theme_win11_maison.png)](https://www.rarlab.com/themes5.htm)
