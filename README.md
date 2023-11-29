@@ -3,7 +3,7 @@
 😍 Husband of K❤️
 
 ## 😊 About me
-I am a Windows Insider MVP MVP 🚀
+I am a Windows Insider MVP 🚀
 
 https://www.microsoft.com/en-us/windowsinsider/mvps/maison-da-silva
 
