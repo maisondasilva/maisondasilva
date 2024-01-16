@@ -3,9 +3,7 @@
 😍 Husband of K❤️
 
 ## 😊 About me
-I am a MVP Windows Insider 2023 🚀
-
-https://www.microsoft.com/en-us/windowsinsider/mvps/maison-da-silva
+I am a MVP Windows and Ex MVP Insider 2023 🚀
 
 ## 🔗 Links
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maisondasilva)
