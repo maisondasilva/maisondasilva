@@ -10,7 +10,7 @@ I am a Microsoft MVP and Ex MVP Insider 2023 🚀
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maisondasilva/)
 
 ## 🛠 Skills
-🖥️ Windows, Microsoft 365, Office 365, Xbox, Azure, Defender, Linux
+🖥️ Windows, Microsoft 365, Office, Xbox, Azure, Defender, Linux
 
 ## 🌎 My website
 💻 https://maisondasilva.com.br
