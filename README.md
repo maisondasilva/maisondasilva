@@ -12,7 +12,7 @@ I am a Microsoft MVP and Ex MVP Insider 2023 🚀
 ## 🛠 Skills
 🖥️ Windows, Microsoft 365, Office, Xbox, Azure, Defender and Linux.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maisondasilva)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maisondasilva&show_icons=true&theme=transparent)
 
 ## 🌎 My website
 💻 https://maisondasilva.com.br
