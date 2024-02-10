@@ -15,7 +15,5 @@ I am a Microsoft MVP and Ex MVP Insider 2023 🚀
 ## 🌎 My website
 💻 https://maisondasilva.com.br
 
-## 👩‍💻Winrar theme
-[![temawinrar](https://www.rarlab.com/images/theme_win11_maison.png)](https://www.rarlab.com/themes5.htm)
-
+## 👩‍💻GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maisondasilva&show_icons=true&theme=transparent)
