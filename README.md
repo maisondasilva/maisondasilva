@@ -14,8 +14,6 @@ I am a Microsoft MVP and Ex MVP Insider 2023 🚀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maisondasilva&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maisondasilva&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🌎 My website
 💻 https://maisondasilva.com.br
 
