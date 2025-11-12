@@ -3,7 +3,7 @@
 
 ## 😊 About me
 
-I am a Microsoft MVP Windows and Devices and Ex MVP Insider 2023 🚀
+I am a Microsoft MVP at Microsoft with expertise in Microsoft Windows. 🚀
 
 ## 🔗 Links
 [![x](https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maisondasilva)
