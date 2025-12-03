@@ -16,4 +16,4 @@ I am a Microsoft MVP Windows and Devices. 🚀
 💻 https://maisondasilva.com.br
 
 ## 👩‍💻GitHub stats
-[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+[![My user statistics](images/userstats.svg)](https://github.com/maisondasilva/user-statistician)
