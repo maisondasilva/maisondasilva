@@ -16,6 +16,4 @@ I am a Microsoft MVP Windows and Devices. 🚀
 💻 https://maisondasilva.com.br
 
 ## 👩‍💻GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maisondasilva&show_icons=true&theme=transparent)
-
-[![Maison da Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=maisondasilva)](https://github.com/anuraghazra/github-readme-stats)
+![My user statistics](images/userstats.svg)
